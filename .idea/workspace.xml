@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93a2ef25-cc92-4f80-936b-a09c700866c6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="93a2ef25-cc92-4f80-936b-a09c700866c6" name="Default Changelist" comment="İnitial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,12 +99,31 @@
       <workItem from="1636531793740" duration="1862000" />
       <workItem from="1636617375067" duration="2365000" />
       <workItem from="1636656575506" duration="805000" />
-      <workItem from="1636700850790" duration="1693000" />
+      <workItem from="1636700850790" duration="2270000" />
     </task>
+    <task id="LOCAL-00001" summary="İnitial commit">
+      <created>1636703128961</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636703128962</updated>
+    </task>
+    <task id="LOCAL-00002" summary="İnitial commit">
+      <created>1636703178748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636703178748</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="İnitial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="İnitial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="693" y="419" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1636605808919">
@@ -126,10 +135,10 @@
     </state>
     <state x="690" y="328" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/3840.112.1536.832/0.0.1920.1160/1920.-3.1920.1160@0.0.1920.1160" timestamp="1634890779361" />
     <state x="690" y="328" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/3840.125.1536.832/1920.0.1920.1160/0.0.1920.1160@0.0.1920.1160" timestamp="1634543240608" />
-    <state x="583" y="89" key="CommitChangelistDialog2" timestamp="1636703127938">
+    <state x="583" y="89" key="CommitChangelistDialog2" timestamp="1636703767611">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="583" y="89" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1636703127938" />
+    <state x="583" y="89" key="CommitChangelistDialog2/0.0.1920.1160@0.0.1920.1160" timestamp="1636703767611" />
     <state x="836" y="475" width="448" height="262" key="Github.ShareDialog" timestamp="1636703092912">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
