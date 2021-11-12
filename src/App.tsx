@@ -1,25 +1,31 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Header from "./components/Header";
+import {Col, Container, Row} from "react-bootstrap";
+import Countries from "./components/Countries";
+import TotalInfo from "./components/TotalInfo";
+import LastDaysInfo from "./components/LastDaysInfo";
+import "leaflet/dist/leaflet.css";
+import WorldMap from "./components/WorldMap";
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+
+      <Container fluid className="px-container">
+        <Header/>
+        <Row className="content">
+          <Col sm={4}>
+              <Countries/>
+              <TotalInfo/>
+          </Col>
+          <Col sm={8}>
+              <WorldMap/>
+              <LastDaysInfo/>
+          </Col>
+        </Row>
+      </Container>
   );
 }
 
